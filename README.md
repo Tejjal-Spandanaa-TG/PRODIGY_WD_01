@@ -1,1 +1,1 @@
-# PRODIGY_WD_01
+This project focuses on developing an engaging and easy-to-navigate landing page using HTML and CSS. The landing page acts as the first point of contact for our website, so it's essential to make a memorable impact on visitors.
